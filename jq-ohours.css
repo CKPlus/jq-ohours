@@ -1,0 +1,15 @@
+.opening-hour-input {
+	width: 100px;
+	display: inline-block;
+}
+.opening-hours-ops , .oh-opration{
+	margin: 10px 0px;
+}
+.glyphicon-remove {
+	vertical-align: baseline;
+	margin-left: 5px;
+}
+
+.ohours-table .label-info{
+	padding: 7px 7px;
+}
